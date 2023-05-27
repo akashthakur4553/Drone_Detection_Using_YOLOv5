@@ -3,6 +3,7 @@
 
 Drone Detection Project using YOLOv5 Algorithm
 This project aims to develop a drone detection system using computer vision techniques and the YOLOv5 algorithm. The system is designed to identify and track drones in real-time from video or image data.
+![drone_app](https://github.com/akashthakur4553/Drone_Detection_Using_YOLOv5/assets/117273921/0bf5234e-05cd-4614-be81-29de50728fb4)
 
 ## Key Features
 Real-time Drone Detection: The project utilizes the state-of-the-art YOLOv5 algorithm to perform accurate and fast detection of drones in real-time.
@@ -17,7 +18,7 @@ Python: The code is implemented in Python, leveraging its extensive libraries an
 OpenCV: OpenCV is used for image and video processing tasks, such as preprocessing, feature extraction, and visualization.
 PyTorch: PyTorch is employed as the deep learning framework for training and deploying the YOLOv5 model.
 
-##Usage and Deployment
+## Usage and Deployment
 Clone the repository and install the required dependencies.
 streamlit run final_trial.py
 
